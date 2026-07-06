@@ -51,5 +51,16 @@ https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-Win
    
     **python=3.12**
    	newest version of python is 3.14, 3.12 was the last version that offered real speed boost from 3.11, 75% for synchronized tasks, very important for media sites
+
+
+7. **conda activate WhateverNameYouWant**
+
+   <img width="1474" height="553" alt="image" src="https://github.com/user-attachments/assets/f8fba3d2-be37-4011-8f77-65ee9af297f2" />
+
+	in my case I named my environment aitools, you can see the terminal name changed from (base) to (aitools)
+
+8. to execute any python file just type
+
+	**python FileName.py**
    
    
