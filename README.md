@@ -47,10 +47,10 @@ https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-Win
    	command for "name"
    
     **WhateverNameYouWant**
-    change this to a name you want, I use kokoro311 so I know its used for kokoro and python version = 3.12
+    change this to a name you want
    
     **python=3.12**
-   	newest version of python is 3.14, 3.12 was the last version that offered real speed boost from 3.11, 75% for synchronized tasks, very important for media sites
+   	newest version of python is 3.14, 3.12 was the last version that offered real speed boost from 3.11, 75% for synchronized tasks, very important. 
 
 
 7. **conda activate WhateverNameYouWant**
